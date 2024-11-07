@@ -30,7 +30,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Graduate of South Texas ISD Health Professions</li>
-        <li>Currently getting Bachelor's at the University of Texas Rio Grande Valley </li>
+        <li>Currently getting Bachelor&apos;s at the University of Texas Rio Grande Valley </li>
       </ul>
     ),
   },
